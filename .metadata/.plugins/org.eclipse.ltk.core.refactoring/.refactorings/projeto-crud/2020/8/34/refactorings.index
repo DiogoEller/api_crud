@@ -1,0 +1,11 @@
+1597881426912	Delete element
+1597882229694	Encapsulate field 'id'
+1597882233072	Encapsulate field 'sexo'
+1597882235730	Encapsulate field 'email'
+1597882237871	Encapsulate field 'nascimento'
+1597882242618	Encapsulate field 'naturalidade'
+1597882245182	Encapsulate field 'nacionalidade'
+1597882248331	Encapsulate field 'cpf'
+1597882405358	Rename package 'br.com.alura.jpa.modelo'
+1597885146274	Rename type 'TesteCriaTabelas'
+1597885269312	Encapsulate field 'nome'
